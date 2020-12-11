@@ -1,6 +1,6 @@
 # Change Point Modeling
 
-This is a space to store and share code that implements a change point model for COVID-19 case data in the United States. A change point is a point in time at which the number of reported cases changes from increasing to decreasing or from decreasing to increasing. This project is an extension of the work started by Zhagn, Xu, and Peng at IUPUI. The initially proposed model is a second-order free knot spline model that assumes a single change point. The location of the knot identifies the change point. It is desirable to extend this model to incorporate more than one change point.
+This is a space to store and share code that implements a change point model for COVID-19 case data in the United States. A change point is a point in time at which the number of reported cases changes from increasing to decreasing or from decreasing to increasing. This project is an extension of the work started by Zhang, Xu, and Peng at IUPUI. The initially proposed model is a second-order free knot spline model that assumes a single change point. The location of the knot identifies the change point. It is desirable to extend this model to incorporate more than one change point.
 
 ## Data
 
